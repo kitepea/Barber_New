@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253058213866",
+    "project_id": "barber-otp",
+    "storage_bucket": "barber-otp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253058213866:android:8ea86a4f6da7b643087493",
+        "android_client_info": {
+          "package_name": "com.floki.barber_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253058213866-jrcj1ujghgjohcfsil2ul6e1uahut0dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.floki.barber_new",
+            "certificate_hash": "8ce7c5159ad065a09072273efa654ed43057e041"
+          }
+        },
+        {
+          "client_id": "253058213866-hkqmf8ejsotvnfo7junsss5jn6k1oicj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFoahhyUjyk6hlJibyupWJs-TNPPZDiT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253058213866-hkqmf8ejsotvnfo7junsss5jn6k1oicj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
